@@ -1,2 +1,2 @@
 # Retail Manager
-A retail management system built by Enterprise Solutions
+A retail management system 
